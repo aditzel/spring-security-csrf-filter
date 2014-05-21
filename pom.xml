@@ -24,6 +24,35 @@
     <packaging>jar</packaging>
 
     <name>Spring Security CSRF Token Filter</name>
+    <url>https://github.com/aditzel/spring-security-csrf-filter</url>
+
+    <developers>
+        <developer>
+            <id>aditzel</id>
+            <name>Allan Ditzel</name>
+            <email>allan@allanditzel.com</email>
+            <url>https://github.com/aditzel</url>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <issueManagement>
+        <url>https://github.com/aditzel/spring-security-csrf-filter/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+
+    <scm>
+        <url>https://github.com/aditzel/spring-security-csrf-filter</url>
+        <connection>scm:git:git://github.com/aditzel/spring-security-csrf-filter.git</connection>
+        <developerConnection>scm:git:git@github.com:aditzel/spring-security-csrf-filter.git</developerConnection>
+    </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
