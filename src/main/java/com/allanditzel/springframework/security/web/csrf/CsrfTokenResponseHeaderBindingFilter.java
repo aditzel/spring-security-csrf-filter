@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.aditzel.springframework.security.web.csrf;
+package com.allanditzel.springframework.security.web.csrf;
 
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.filter.OncePerRequestFilter;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.aditzel.springframework.security.web.csrf;
+package com.allanditzel.springframework.security.web.csrf;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -36,7 +36,7 @@ import static org.mockito.Mockito.verifyNoMoreInteractions;
 import static org.mockito.Mockito.when;
 
 /**
- * Test for {@link com.aditzel.springframework.security.web.csrf.CsrfTokenResponseHeaderBindingFilter}.
+ * Test for {@link CsrfTokenResponseHeaderBindingFilter}.
  *
  * @author Allan Ditzel
  * @since 1.0
