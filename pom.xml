@@ -19,7 +19,7 @@
 
     <groupId>com.allanditzel</groupId>
     <artifactId>spring-security-csrf-token-filter</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>Spring Security CSRF Token Filter</name>
@@ -52,7 +52,7 @@
         <url>https://github.com/aditzel/spring-security-csrf-filter</url>
         <connection>scm:git:git://github.com/aditzel/spring-security-csrf-filter.git</connection>
         <developerConnection>scm:git:git@github.com:aditzel/spring-security-csrf-filter.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>1.1</tag>
   </scm>
 
     <distributionManagement>
