@@ -7,6 +7,18 @@ By default, Spring Security assumes that you are going to be rendering all your 
 expected to use their expression language to print out the CSRF tokens to make it available to your UI layer. This
 filter is meant to allow you to automatically expose the CSRF token data from Spring on all HTTP response headers.
 
+#Installation:
+
+This can be installed via Maven:
+
+````
+<dependency>
+    <groupId>com.allanditzel</groupId>
+    <artifactId>spring-security-csrf-token-filter</artifactId>
+    <version>1.1</version>
+</dependency>
+````
+
 #Usage:
 
 If you are using JavaConfig you just have to add it to a configure block for HttpSecurity:
