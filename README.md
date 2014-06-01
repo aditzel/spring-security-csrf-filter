@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/aditzel/spring-security-csrf-filter.svg?branch=master)](https://travis-ci.org/aditzel/spring-security-csrf-filter)
 #Spring Security CSRF Token Filter
 
 The idea behind this filter is to be able to use Spring Security to build a Single Page Application with whatever 
